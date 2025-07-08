@@ -1,105 +1,102 @@
-Here’s a revamped version of your Markdown file, enriched with Xoftify’s updated information (based on [https://xoftify.com](https://xoftify.com) and the brochure) ([xoftify.com][1]). You can drop this into your repo:
+# 👋 Welcome to **Xoftify**!
+
+### We Build Great Digital Solutions
 
 ---
 
-```markdown
-# Xoftify
+## 🌟 Who We Are
 
-**We Build Great Solutions**
-
-Xoftify is a Finland-based digital solutions partner specializing in **web apps**, **IoT**, and **cloud infrastructure**. We harness innovation, reliability, and customer focus to deliver real-world results for businesses.
+Xoftify is a Finland-based digital solutions partner specializing in **web applications**, **IoT**, and **cloud infrastructure**. With a passion for innovation and reliability, we develop custom-made solutions tailored to your business needs—from embedded firmware and real-time dashboards to SaaS platforms and CI/CD pipelines :contentReference[oaicite:1]{index=1}.
 
 ---
 
-## 🚀 Our Services
+## 🧰 Our Expertise
 
-### 1. Web Solutions
-- Customized UI/UX design & development
-- Full-stack web and SaaS applications
-- AI/ML integration into web platforms :contentReference[oaicite:3]{index=3}
-
-### 2. IoT & Automation
-- Hardware design & fabrication
-- Embedded firmware
-- Real-time monitoring dashboards & AI/ML-enhanced automation :contentReference[oaicite:4]{index=4}
-
-### 3. Cloud & DevOps
-- High-availability architecture & CI/CD pipelines
-- Cloud deployment (AWS, Azure, etc.)
-- Security, support & ongoing maintenance :contentReference[oaicite:5]{index=5}
+- **Web & SaaS**  
+  UI/UX design, full-stack development, AI/ML integrations.
+- **IoT & Embedded Systems**  
+  Custom hardware, firmware, and real-time monitoring solutions.
+- **Cloud & DevOps**  
+  AWS/Azure deployments, high-availability setups, security, and maintenance.
 
 ---
 
-## ✅ Why Choose Xoftify?
+## 🛠️ Technologies We Use
 
-- **Innovation & Expertise**: Cutting-edge solutions aligned with client goals :contentReference[oaicite:6]{index=6}  
-- **Reliability & Quality**: Rigorous QA and full project visibility :contentReference[oaicite:7]{index=7}  
-- **Customer-Centric**: Tailored development driven by deep requirement analysis :contentReference[oaicite:8]{index=8}
-
----
-
-## 🛠️ Featured Projects
-
-### LLM‑Based Product Research Tool
-- Prompt-driven AI/ML search + dashboards  
-- Laravel backend, security emphasis :contentReference[oaicite:9]{index=9}
-
-### Scientific E‑Commerce & Blog (WowScienceFacts.com)
-- Headless CMS (WordPress) + Next.js + WooCommerce  
-- Stripe payments & social media integration :contentReference[oaicite:10]{index=10}
-
-### Automated Parking System
-- Real-time license‑plate detection (YOLOv4) & monitoring  
-- Custom hardware + intuitive dashboards :contentReference[oaicite:11]{index=11}
-
-### eToolsBuddy.com
-- Suite of web utilities (invoice/salary generators, BMI, calculators, etc.)  
-- Next.js frontend + Django backend + MongoDB :contentReference[oaicite:12]{index=12}
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)  
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws)  
+![Azure](https://img.shields.io/badge/-Azure-008AD7?style=flat-square&logo=microsoftazure)
 
 ---
 
-## 👥 Our Team
+## 📊 GitHub Stats
 
-- **Dinesh Weerarathne** – CEO & Founder (PhD candidate, ML & IoT expert) :contentReference[oaicite:13]{index=13}  
-- **Suranga Prasad** – COO & Co‑Founder (Telecom & Cloud specialist) :contentReference[oaicite:14]{index=14}  
-- **Dilin Dampahalge** – CTO & Co‑Founder (Wireless comms & ML researcher) :contentReference[oaicite:15]{index=15}  
-- **Madushanka** – CPO/CMO & Co‑Founder (Robotics, CV, ML engineer) :contentReference[oaicite:16]{index=16}  
-- Plus talented frontend, backend, IoT, QA, DevOps, design, and marketing professionals. :contentReference[oaicite:17]{index=17}
+![Xoftify GitHub stats](https://github-readme-stats.vercel.app/api?username=xoftify&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xoftify&layout=compact&theme=tokyonight)
 
 ---
 
-## 📈 Our Approach
+## 🚀 Featured Projects
 
-1. **Requirement Gathering** – Understand goals, audience, market  
-2. **Prototyping** – Personas, wireframes, UX/UI drafts  
-3. **Agile Development** – Iterative sprints with regular reviews  
-4. **QA & Documentation** – Unit/integration tests, full docs  
-5. **Deployment & Maintenance** – Cloud hosting, CI/CD, support :contentReference[oaicite:18]{index=18}
+### [IoT Smart Parking System](#)
+- Real-time license-plate detection with YOLOv4, custom hardware, intuitive dashboards.  
+- Analytics and monitoring for efficient operations.
 
----
+### [Web & Cloud Solutions](#)
+- Full-Stack SaaS apps built with React, Node.js, Docker, and cloud infrastructure.  
+- Includes AI/ML-driven dashboards, secure REST APIs, and end-to-end CI/CD.
 
-## ✉️ Contact Us
-
-- **Email**: xoftify.global@gmail.com  
-- **Phone**: +358 404 758 800  
-- **Project Inquiries & Collaboration**:  
-  Visit our website → [xoftify.com](https://xoftify.com)
+### [Utility Web Tools](#)
+- Web suite for invoices, calculators, stats aggregation.  
+- Combines Django back-end, Next.js front-end, and MongoDB.
 
 ---
 
-*Empower your business with Xoftify—your partner for web, IoT, and cloud growth.*
+## 🧭 Why Partner with Us
+
+1. **Tailored Solutions** – We understand your unique business needs and deliver accordingly :contentReference[oaicite:2]{index=2}.  
+2. **Cutting-Edge Expertise** – We combine IoT, wireless systems, ML, and cloud tech under one roof :contentReference[oaicite:3]{index=3}.  
+3. **End-to-End Support** – From prototyping and agile development to QA, deployment, and ongoing maintenance.
 
 ---
 
-### ℹ️ Notes
+## 🙌 Meet Our Founders
 
-- Update the **Contact**, **Team**, or **Project** sections from our repo if details change.  
-- Change repository badges (e.g. license, build status) as needed.
+- **Dinesh Weerarathne** – CEO & Founder (PhD candidate, ML/IoT expert, formerly at Nokia & Etisalat) :contentReference[oaicite:4]{index=4}  
+- **[Your Other Co-founders]** – e.g., Co-founder & CTO, COO, etc.
 
 ---
 
-Let me know if you'd like help customizing this further or want to add badges and visuals!
-::contentReference[oaicite:19]{index=19}
-```
+## 📌 Our Vision
 
-[1]: https://xoftify.com/?utm_source=chatgpt.com "Xoftify - We Build Great Solutions"
+We champion Finland’s digital transformation movement by leveraging advanced technologies to create sustainable digital infrastructures. Our mission aligns with the **Digital Finland Framework**—building scalable, secure, and intelligent solutions for clients worldwide :contentReference[oaicite:5]{index=5}.
+
+---
+
+## 📞 Connect With Us
+
+| Method     | Details |
+|------------|---------|
+| 🌍 Website | [xoftify.com](https://xoftify.com) |
+| 📩 Email   | xoftify.global@gmail.com |
+| 📱 Phone   | +358 404 758 800 |
+| 👉 LinkedIn/Twitter/etc. | *(Add your social links)* |
+
+---
+
+## 🎯 Our Goals
+
+- 🚀 Deliver industry-grade web, IoT, and cloud platforms  
+- 🌱 Support Finland’s digital growth and sustainability  
+- 🤝 Collaborate with global clients and communities  
+- 💡 Stay at the forefront of innovation and tech trends
+
+---
+
+Thank you for visiting our GitHub — feel free to explore, connect, or ⭐ our work!
+::contentReference[oaicite:6]{index=6}
